@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test_connection</string>
+    <string name="Test">This is a test activity for data_synchronization</string>
+    <string name="hint_msg">Please enter your message...</string>
+    <string name="Send">send</string>
+    <string name="AsService">As Service</string>
+    <string name="AsClient">As Client</string>
+</resources>
